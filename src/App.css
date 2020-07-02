@@ -112,7 +112,8 @@ header .row ul li a{
     font-size: 15px;
     text-decoration: none;
     line-height:72px;
-    color:#5c0c0c;
+    /* color:#5c0c0c; */
+    color:#87d662;
     font-weight: 600;
     position: relative;
 }
@@ -146,7 +147,8 @@ header .row ul li a.active::before{
 /* Home section */
 .home{
     min-height: 100vh;
-    background-image:url("components/assets/images/profilebackground.jpg");
+    /* background-image:url("components/assets/images/profilebackground.jpg"); */
+    background-image:url("components/assets/images/background.jpg");
     background-size:cover;
     background-position: center;
     padding:15px;
@@ -685,7 +687,7 @@ footer .social a:hover{
         border: none;
         border-bottom: 1px solid #eeeeee;
     }
-    header .brand-name a{
+    header .brand-name {
         color:#000000;
     }    
     .ham-burger .fa{
