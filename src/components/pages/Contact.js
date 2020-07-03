@@ -1,6 +1,4 @@
 import React from 'react'
-import Container from '../Container/index'
-import Row from '../Row/index'
 import '../../App.css'
 
 function Contact () {
@@ -49,7 +47,7 @@ function Contact () {
             </div>
             <div className='row'>
               <div className='button text-right'>
-                <a href=''>Get In Touch</a>
+                <a href='/#'>Get In Touch</a>
               </div>
             </div>
           </div>

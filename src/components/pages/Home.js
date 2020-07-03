@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link} from "react-router-dom";
 
 function Home () {
   return (
@@ -13,7 +12,7 @@ function Home () {
                     <h1>Sujatha Mallela</h1>
                     <h3>Full Stack Web Developer</h3>
                     <div className="cv-btn">
-                        <a href={require("../assets/images/Sujatha_Mallela.pdf")} target="_blank">DownLoad CV</a>
+                        <a href={require("../assets/images/Sujatha_Mallela.pdf")} target="_blank" rel="noopener noreferrer">DownLoad CV</a>
                     </div>
                    </div>
                 </div>

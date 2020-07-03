@@ -70,17 +70,17 @@ function About () {
                   <div className='social-links'>
                     <a
                       href='https://www.facebook.com/jhanavi.mallela/'
-                      target='_blank'
+                      target='_blank' rel='noopener noreferrer'
                     >
                       <i className='fa fa-facebook'></i>
                     </a>
                     <a
                       href='https://www.linkedin.com/in/sujatha-m-7bb29b188/'
-                      target='_blank'
+                      target='_blank' rel='noopener noreferrer'
                     >
                       <i className='fa fa-linkedin'></i>
                     </a>
-                    <a href='https://github.com/sujatha-m' target='_blank'>
+                    <a href='https://github.com/sujatha-m' target='_blank' rel='noopener noreferrer'>
                       {' '}
                       <i className='fa fa-github'></i>
                     </a>
