@@ -12,7 +12,7 @@ function Home () {
                     <h1>Sujatha Mallela</h1>
                     <h3>Full Stack Web Developer</h3>
                     <div className="cv-btn">
-                        <a href={require("../assets/images/Sujatha_Resume.pdf")} target="_blank" rel="noopener noreferrer">DownLoad CV</a>
+                        <a href={require("../assets/images/Sujatha_Resume (2).pdf")} target="_blank" rel="noopener noreferrer">DownLoad CV</a>
                     </div>
                    </div>
                 </div>
