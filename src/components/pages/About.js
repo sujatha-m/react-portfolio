@@ -75,7 +75,7 @@ function About () {
                       <i className='fa fa-facebook'></i>
                     </a>
                     <a
-                      href='https://www.linkedin.com/in/sujatha-m-7bb29b188/'
+                      href='https://www.linkedin.com/in/sujatha-m'
                       target='_blank' rel='noopener noreferrer'
                     >
                       <i className='fa fa-linkedin'></i>
