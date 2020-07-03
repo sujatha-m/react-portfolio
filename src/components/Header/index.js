@@ -1,5 +1,4 @@
 import React from "react";
-//import { Link, useLocation } from "react-router-dom";
 import "../../App.css"
 import NavTabs from "../NavTabs";
 import Container from "../Container";
@@ -8,7 +7,6 @@ function Header (){
     return(
         <header>
             <Container />
-        {/* <div className="container"> */}
             <div className="row">
             <div className="brand-name">
             <a href ="/#" className="logo">Sujatha</a>
@@ -18,7 +16,6 @@ function Header (){
             </div>
             <NavTabs />
         </div>
-        {/* </div> */}
     </header>
     )
 }

@@ -8,7 +8,7 @@ function NavTabs (){
     <div>
       <ul className = 'navbar'>
           <li >
-              <Link to = '/' className = {location.pathname === '/'  ? 'nav-link active' : 'nav-link'}>Home</Link>
+              <Link to = '/react-portfolio' className = {location.pathname === '/'  ? 'nav-link active' : 'nav-link'}>Home</Link>
           </li>
           <li>
               <Link to = '/about' className = {location.pathname === '/about'  ? 'nav-link active' : 'nav-link'}>About Me</Link>
