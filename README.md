@@ -2,7 +2,7 @@
 
 
 **Deployed Web URL**
-
+https://sujatha-m.github.io/react-portfolio/.
 
 Updated portfolio page using React.Js, React-router-dom CSS. Features mobile responsive.
 
