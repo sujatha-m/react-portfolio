@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "031e2bb6366c15ef9bfb1f03e4c89f54",
+    "revision": "0e4557194e32b6d7d53dda1a6d0a453b",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "7a003d9fca53f6c33c3a",
+    "revision": "789bbd70bdbfa9d91297",
     "url": "/react-portfolio/static/css/main.c0b9eb0b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/js/2.6df5ae3f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7a003d9fca53f6c33c3a",
-    "url": "/react-portfolio/static/js/main.0fc17a59.chunk.js"
+    "revision": "789bbd70bdbfa9d91297",
+    "url": "/react-portfolio/static/js/main.1f406afb.chunk.js"
   },
   {
     "revision": "aff33cef9dbb8787d6b3",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/media/FitnessTracker.a9901cbb.png"
   },
   {
-    "revision": "ea65504cab6b0366b07d1058e2482a33",
-    "url": "/react-portfolio/static/media/NoteTaker.ea65504c.png"
+    "revision": "e4a8be5ad597368022a4cadd47c8ae2c",
+    "url": "/react-portfolio/static/media/GoogleBooks.e4a8be5a.png"
   },
   {
     "revision": "9f12d9795c0e681987a417ba2cf27fc2",

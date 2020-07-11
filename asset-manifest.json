@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.c0b9eb0b.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.0fc17a59.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.0fc17a59.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.1f406afb.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.1f406afb.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
     "static/js/2.6df5ae3f.chunk.js": "/react-portfolio/static/js/2.6df5ae3f.chunk.js",
     "static/js/2.6df5ae3f.chunk.js.map": "/react-portfolio/static/js/2.6df5ae3f.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.5f88d3f3fb49889a91d7252eed191cd7.js": "/react-portfolio/precache-manifest.5f88d3f3fb49889a91d7252eed191cd7.js",
+    "precache-manifest.6db0e0093fcb2c4f8fb61c091d76cb07.js": "/react-portfolio/precache-manifest.6db0e0093fcb2c4f8fb61c091d76cb07.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
     "static/css/main.c0b9eb0b.chunk.css.map": "/react-portfolio/static/css/main.c0b9eb0b.chunk.css.map",
     "static/js/2.6df5ae3f.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.6df5ae3f.chunk.js.LICENSE.txt",
     "static/media/EatDaBurger.png": "/react-portfolio/static/media/EatDaBurger.a0bd70f8.png",
     "static/media/EmployeeDirectory.png": "/react-portfolio/static/media/EmployeeDirectory.610023e8.png",
     "static/media/FitnessTracker.png": "/react-portfolio/static/media/FitnessTracker.a9901cbb.png",
-    "static/media/NoteTaker.png": "/react-portfolio/static/media/NoteTaker.ea65504c.png",
+    "static/media/GoogleBooks.png": "/react-portfolio/static/media/GoogleBooks.e4a8be5a.png",
     "static/media/Project1.png": "/react-portfolio/static/media/Project1.9f12d979.png",
     "static/media/Project2.png": "/react-portfolio/static/media/Project2.43d467b4.png",
     "static/media/Sujatha_Resume.pdf": "/react-portfolio/static/media/Sujatha_Resume.a568d19e.pdf",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.213b1880.js",
     "static/js/2.6df5ae3f.chunk.js",
     "static/css/main.c0b9eb0b.chunk.css",
-    "static/js/main.0fc17a59.chunk.js"
+    "static/js/main.1f406afb.chunk.js"
   ]
 }
