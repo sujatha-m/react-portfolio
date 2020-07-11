@@ -44,10 +44,10 @@ function Portfolio(){
                     linkGithub="https://github.com/sujatha-m/Master-Home-Cook"
                   />
                   <Project
-                    name="Note Taker"
-                    imgPath={require("../assets/images/NoteTaker.png")}
-                    linkDeployed="https://safe-crag-29613.herokuapp.com/"
-                    linkGithub="https://github.com/sujatha-m/Note-Taker"
+                    name="Google-Books-React "
+                    imgPath={require("../assets/images/GoogleBooks.png")}
+                    linkDeployed="https://intense-earth-07171.herokuapp.com/"
+                    linkGithub="https://github.com/sujatha-m/Google-Books-React-Search"
                   />
                   <Project
                     name="Fitness Tracker"
