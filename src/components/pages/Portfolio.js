@@ -23,10 +23,10 @@ function Portfolio(){
                     linkGithub="https://github.com/sujatha-m/Group-Project2"
                   />
                   <Project
-                    name="EatDaBurger"
-                    imgPath={require("../assets/images/EatDaBurger.png")}
-                    linkDeployed="https://desolate-garden-68905.herokuapp.com/burgers"
-                    linkGithub="https://github.com/sujatha-m/EatDaBurger"
+                    name="U-break-WE-fix"
+                    imgPath={require("../assets/images/Project3.png")}
+                    linkDeployed="https://still-depths-30514.herokuapp.com/"
+                    linkGithub="https://github.com/sujatha-m/U-break-WE-fix"
                   />
                   <Project
                     name="Employee Directory"
