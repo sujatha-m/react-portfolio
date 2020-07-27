@@ -9,7 +9,7 @@ function Header (){
             <Container />
             <div className="row">
             <div className="brand-name">
-            <a href ="/#" className="logo">Sujatha</a>
+            <a href ="/react-portfolio" className="logo">Sujatha</a>
             </div>
             <div className="ham-burger">
                <i className= "fa fa-bars"></i> 
