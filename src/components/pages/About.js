@@ -26,14 +26,14 @@ function About () {
                     Full<span> Stack Web Developer, Canada</span>{' '}
                   </h6>
                   <p>
-                    Hi, my name is Sujatha. I am an Arts Graduate currently
-                    pursuing full-stack web development Boot camp from Carleton
-                    University.
+                    Hi, my name is Sujatha. I am a Graduate in Economics and completed 
+                    full-stack web development coding Boot camp program from
+                    Carleton University.
                   </p>
                   <p>
                     I am passionate about solving complex problems, learning new
                     things and developing beautiful applications with a focus on
-                    UX/UI design and development. Excited to leverage skills and
+                    UX/UI design and development. Am Excited to leverage skills and
                     provide fresh ideas as part of a passionate, continually
                     learning, quality-driven team in order to build better
                     experiences on the web.

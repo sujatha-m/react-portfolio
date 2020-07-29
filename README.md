@@ -36,6 +36,9 @@ This is a build-in-progress React.js portfolio that will ultimately showcase my 
 * React-router-dom
 * CSS
 
+### Deploy
+Run npm run deploy to update the github pages 
+
 ## License 
 [![MIT](https://img.shields.io/npm/l/isc?color=Blue&style=plastic)](https://img.shields.io/npm/l/isc?color=Blue&style=plastic)
 
