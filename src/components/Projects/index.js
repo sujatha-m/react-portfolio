@@ -9,6 +9,8 @@ function Project(props) {
   return (
     <Col size="md-4 sm-12">
       <div className="button-container">
+        <h4 style={{color: "#87d662"}}> {props.projectName} </h4>
+        <p>{props.paragraph}</p>
         <img
           className="img-fluid portfolio-pic"
           src={props.imgPath}

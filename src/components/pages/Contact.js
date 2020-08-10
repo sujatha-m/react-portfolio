@@ -63,9 +63,8 @@ function Contact () {
     <section className='contact-us' id='contact'>
       <div style={{minHeight: '350px'}}>
       <div className='container'>
-      <div className='text'>
-        <h2>Contact Me</h2>
-        </div>
+      <div className='text-center mt-5'>
+        <h2>Contact Me</h2>  
         <div className='details'>
           <div>
             <FaPhone />
@@ -75,6 +74,7 @@ function Contact () {
           <FaEnvelope />
           {'  '}
           <span className='email'>jhanavi.bhushan@gmail.com</span>
+        </div>
         </div>
       </div>
       </div>
