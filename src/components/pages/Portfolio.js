@@ -16,13 +16,21 @@ function Portfolio(){
               <div className="col-md-12 midsection">
                 {/* <h2>Portfolio</h2> */}
                 <Row>
-                  <Project
+                  {/* <Project
                     projectName="Spam Num Tracker"
                     paragraph="An application that hosts a database service for users to report spam calls received on their phones. The database would serve as a central repository to hold list of spam numbers reported by all users registered with the application."
                     name="Spam Num Tracker"
                     imgPath={require("../assets/images/Project2.png")}
                     linkDeployed="https://spamnumbertracker.herokuapp.com/"
                     linkGithub="https://github.com/sujatha-m/Group-Project2"
+                  /> */}
+                  <Project
+                  projectName="MERN-school-management"
+                  paragraph="MERN is a Fullstack web application the acronym for MongoDB, Express.js, React.js, and Node.js combination of Javascript-based technologies which are used to build advanced web applications hosted in Netlify."
+                    name="School-management"
+                    imgPath={require("../assets/images/school-management.png")}
+                    linkDeployed="https://mernstack-school-management-app.netlify.app/"
+                    linkGithub="https://github.com/sujatha-m/MERN-school-management"
                   />
                   <Project
                     projectName="U-break-WE-fix"
@@ -44,6 +52,14 @@ function Portfolio(){
                 <br/><br/>
                 <Row>
                   <Project
+                    projectName="Natours"
+                    paragraph="Natours is front-end fictional company that offers tours in a nature for adventours people. This website has no functionality, it only presents the user interface of a tourism company. Built iwth HTML, CSS and SASS."
+                    name="Natours"
+                    imgPath={require("../assets/images/Natours.png")}
+                    linkDeployed="https://sujatha-m.github.io/Natours/index"
+                    linkGithub="https://github.com/sujatha-m/Natours"
+                  />
+                  <Project
                   projectName="Master Home Cook"
                   paragraph="An application that displays Master Home Cook welcome page with multiple options like 
                   ingredients,calories,cook time,diet type. The results are obtained by making calls to ThirdParty APIs."
@@ -61,14 +77,7 @@ function Portfolio(){
                     linkDeployed="https://intense-earth-07171.herokuapp.com/"
                     linkGithub="https://github.com/sujatha-m/Google-Books-React-Search"
                   />
-                  <Project
-                  projectName="Fitness Tracker"
-                  paragraph="This application allows the user to create and track their workouts. They can keep track of multiple exercises in a workout. The user has the option to record either a resistance or cardio exercise."
-                    name="Fitness Tracker"
-                    imgPath={require("../assets/images/FitnessTracker.png")}
-                    linkDeployed="https://gentle-dawn-36665.herokuapp.com/"
-                    linkGithub="https://github.com/sujatha-m/Fitness-Tracker"
-                  />
+                  
                 </Row>
               </div>
             </Row>

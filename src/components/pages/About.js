@@ -23,17 +23,15 @@ function About () {
                 <div className='text'>
                   <h4>Sujatha Mallela</h4>
                   <h6>
-                    Full<span> Stack Web Developer, Canada</span>{' '}
+                  <span>Full Stack Web Developer, Canada</span>{' '}
                   </h6>
                   <p>
-                    Hi, my name is Sujatha. I am a Graduate in Economics and completed 
-                    full-stack web development coding Boot camp program from
-                    Carleton University.
+                    Hi, my name is Sujatha. I am a Full Stack Web Developer with a coding Boot camp certificate from
+                    Carleton University.I have also been part of React.js upskilling program from LightHouse Labs.
                   </p>
                   <p>
-                    I am passionate about solving complex problems, learning new
-                    things and developing beautiful applications with a focus on
-                    UX/UI design and development. Am Excited to leverage skills and
+                    I am passionate about technology and solving complex problems.
+                    Am Excited to leverage skills and
                     provide fresh ideas as part of a passionate, continually
                     learning, quality-driven team in order to build better
                     experiences on the web.
@@ -51,17 +49,17 @@ function About () {
                       <label>Residence:</label>
                       <p>Canada</p>
                     </div>
-                    <div className='list'>
+                    {/* <div className='list'>
                       <label>Address:</label>
                       <p>364 Brettonwood Ridge, ON, Kanata, K2T 0H8</p>
-                    </div>
+                    </div> */}
                   </div>
                   <div className='info'>
-                    <lable>Skills & Technologies:</lable>
+                    <lable><b>Skills & Technologies:</b></lable>
                     <p>
-                      JavaScript, JQuery, Node.js, React.js HTML5, CSS, MYSQL
-                      Technologies: GitHub, Gitbash, Boot Strap CSS Framework,
-                      Skeleton CSS Framework, Bulma CSS Framework. Sequelize,
+                    JavaScript, TypeScript, JQuery, Node.js, React.js HTML5, CSS, SASS. Version controls
+                      Git, GitHub, CSS Framework like Bootstrap, Material UI, Semantic UI
+                      Styled-components, Bulma.
                       Passport authentication, HeroKU Database: MySQL, Mongo DB.
                       OS: Linux, Windows 10
                     </p>
