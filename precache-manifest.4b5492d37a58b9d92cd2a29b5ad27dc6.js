@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0f0215027bb956de51537f627662dba9",
+    "revision": "405fb248ab8351100b707ec19e2fe892",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "ddf09c90c5b4e19ad41d",
+    "revision": "014d1ad5673bf2c0f330",
     "url": "/react-portfolio/static/css/main.c0b9eb0b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/js/2.55b09de4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ddf09c90c5b4e19ad41d",
-    "url": "/react-portfolio/static/js/main.3dd00109.chunk.js"
+    "revision": "014d1ad5673bf2c0f330",
+    "url": "/react-portfolio/static/js/main.4908cac3.chunk.js"
   },
   {
     "revision": "aff33cef9dbb8787d6b3",
@@ -28,28 +28,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/media/EmployeeDirectory.610023e8.png"
   },
   {
-    "revision": "a9901cbb359895c0d1606a53a3aafc4c",
-    "url": "/react-portfolio/static/media/FitnessTracker.a9901cbb.png"
-  },
-  {
     "revision": "e4a8be5ad597368022a4cadd47c8ae2c",
     "url": "/react-portfolio/static/media/GoogleBooks.e4a8be5a.png"
+  },
+  {
+    "revision": "56dba69d51726fa29708f3e9fe55f4fe",
+    "url": "/react-portfolio/static/media/Natours.56dba69d.png"
   },
   {
     "revision": "9f12d9795c0e681987a417ba2cf27fc2",
     "url": "/react-portfolio/static/media/Project1.9f12d979.png"
   },
   {
-    "revision": "43d467b439448e849de765d924fd8ec6",
-    "url": "/react-portfolio/static/media/Project2.43d467b4.png"
-  },
-  {
     "revision": "0f1d8783e193b6a6e49cee31df453a44",
     "url": "/react-portfolio/static/media/Project3.0f1d8783.png"
-  },
-  {
-    "revision": "cf853d6687feac4b49c790f0606eb692",
-    "url": "/react-portfolio/static/media/Sujatha_Resume.cf853d66.pdf"
   },
   {
     "revision": "ef4ad52b52263bcba9d087cd1cd3c7c7",
@@ -58,5 +50,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c27b37cb470347edfa03e76c484294a0",
     "url": "/react-portfolio/static/media/mypic.c27b37cb.jpg"
+  },
+  {
+    "revision": "54760ab7a44a8e4c7c928a6ee0eb997f",
+    "url": "/react-portfolio/static/media/school-management.54760ab7.png"
+  },
+  {
+    "revision": "9cd7feb72a5598d616668b884beb01c0",
+    "url": "/react-portfolio/static/media/sujatha-dec.9cd7feb7.pdf"
   }
 ]);
